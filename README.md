@@ -72,5 +72,7 @@ Implementation of AI-based FACTS control.
 Integration with Smart Grid & IoT-based monitoring.
 
 Dynamic FACTS device switching for optimal power management.
+SVC Reactive Power Compensation: 1058000 VAR
+STATCOM Reactive Power Compensation: 1763333.3333 VAR
 
 For questions or modifications, feel free to reach out! 🚀
